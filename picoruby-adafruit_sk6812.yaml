@@ -1,0 +1,11 @@
+name: picoruby-adafruit_sk6812
+repo: https://github.com/picoruby/picoruby
+path: mrbgems/picoruby-adafruit_sk6812
+ref: master
+description: Adafruit SK6812 RGBW addressable LED driver for PicoRuby.
+tags:
+  - SK6812
+  - RGBW
+  - LED
+  - addressable LED
+  - RMT

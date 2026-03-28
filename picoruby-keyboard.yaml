@@ -1,0 +1,10 @@
+name: picoruby-keyboard
+repo: https://github.com/picoruby/picoruby
+path: mrbgems/picoruby-keyboard
+ref: master
+description: Layer switching functionality for keyboard matrix in PicoRuby.
+tags:
+  - keyboard
+  - key matrix
+  - layer switching
+  - PRK
