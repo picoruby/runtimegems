@@ -13,6 +13,20 @@
     ]
   },
   {
+    "name": "picoruby-adafruit_sk6812",
+    "repo": "https://github.com/picoruby/picoruby",
+    "path": "mrbgems/picoruby-adafruit_sk6812",
+    "ref": "master",
+    "description": "Adafruit SK6812 RGBW addressable LED driver for PicoRuby.",
+    "tags": [
+      "SK6812",
+      "RGBW",
+      "LED",
+      "addressable LED",
+      "RMT"
+    ]
+  },
+  {
     "name": "picoruby-aht25",
     "repo": "https://github.com/picoruby/picoruby",
     "path": "mrbgems/picoruby-aht25",
@@ -118,6 +132,19 @@
       "IIR filter",
       "signal processing",
       "filter"
+    ]
+  },
+  {
+    "name": "picoruby-keyboard",
+    "repo": "https://github.com/picoruby/picoruby",
+    "path": "mrbgems/picoruby-keyboard",
+    "ref": "master",
+    "description": "Layer switching functionality for keyboard matrix in PicoRuby.",
+    "tags": [
+      "keyboard",
+      "key matrix",
+      "layer switching",
+      "PRK"
     ]
   },
   {
