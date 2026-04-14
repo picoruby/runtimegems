@@ -1,0 +1,8 @@
+name: picoruby-uc8151
+repo: https://github.com/picoruby/picoruby
+path: mrbgems/picoruby-uc8151
+ref: master
+description: UC8151 e-paper display driver
+tags:
+  - SPI
+
