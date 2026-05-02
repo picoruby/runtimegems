@@ -175,6 +175,20 @@
     ]
   },
   {
+    "name": "picoruby-mpu6886",
+    "repo": "https://github.com/bash0C7/picoruby-mpu6886",
+    "path": null,
+    "ref": "main",
+    "description": "MPU6886 6-axis IMU (accelerometer, gyroscope, temperature) sensor driver for PicoRuby.",
+    "tags": [
+      "MPU6886",
+      "IMU",
+      "accelerometer",
+      "gyroscope",
+      "I2C"
+    ]
+  },
+  {
     "name": "picoruby-qmi8658",
     "repo": "https://github.com/0x6b/picoruby-qmi8658",
     "path": null,
