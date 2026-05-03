@@ -1,0 +1,11 @@
+name: picoruby-vl53l0x
+repo: https://github.com/bash0C7/picoruby-vl53l0x
+path:
+ref: main
+description: VL53L0X time-of-flight distance sensor driver for PicoRuby.
+tags:
+  - VL53L0X
+  - distance
+  - ToF
+  - sensor
+  - I2C
