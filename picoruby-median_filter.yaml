@@ -1,0 +1,10 @@
+name: picoruby-median_filter
+repo: https://github.com/picoruby/picoruby
+path: mrbgems/picoruby-median_filter
+ref: master
+description: Median filter for rejecting outlier samples from noisy sensors.
+tags:
+  - median filter
+  - outlier rejection
+  - signal processing
+  - filter
