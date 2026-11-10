@@ -1,0 +1,11 @@
+name: picoruby-bmi270
+repo: https://github.com/ksbmyk/picoruby-bmi270
+path:
+ref: main
+description: BMI270 6-axis IMU (accelerometer, gyroscope, temperature) sensor driver for PicoRuby.
+tags:
+  - BMI270
+  - IMU
+  - accelerometer
+  - gyroscope
+  - I2C
